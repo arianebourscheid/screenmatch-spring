@@ -1,5 +1,5 @@
 
-![thumbnail-Formação Java](https://github.com/jacqueline-oliveira/3257-java-screenmatch-com-spring/assets/66698429/003b13b6-b795-4f7b-9f3d-f1e758db3b85)
+
 
 # Java: trabalhando com lambdas, streams e Spring Framework
 
